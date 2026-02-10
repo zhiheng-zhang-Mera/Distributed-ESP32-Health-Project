@@ -13,6 +13,14 @@ By leveraging a multi-node architecture (Ring, Belt, Wrist) and **sensor fusion 
 
 ---
 
+## Sample Image and Runnding Demo / 示意图和示例运行
+
+| Wearing Sample / 穿戴示例 | OLED Screen / 显示屏图例 |
+|--|--|
+| <img src="./Wearing-Sample.jpg" height=450> | <img src="./OLED.jpg" height=450> |
+
+<img src="./Demo.gif" width="100%">
+
 ## System Architecture / 系统架构
 
 The system prioritizes **decentralized processing** to reduce latency and bandwidth.
